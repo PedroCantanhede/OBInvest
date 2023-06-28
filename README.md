@@ -25,10 +25,6 @@ Esta aplicação tem o intuito de comparar os índices das principais bolsas e d
 
 # 🔨 Tecnologias
 
-💻 React
-
-💻 TypeScript
-
 💻 Python
 
 💻 Streamlit
@@ -43,7 +39,7 @@ Esta aplicação tem o intuito de comparar os índices das principais bolsas e d
 
 ## :camera: Veja:
 
-### Aplicação Desktop
+### Aplicação
 
 ![GIF](github/desktop.gif)
 ![GIF](github/desktop2.gif)
@@ -52,7 +48,7 @@ Esta aplicação tem o intuito de comparar os índices das principais bolsas e d
 
 ### Código:
 
-![image](github/codigo.PNG)
+![image](github/codigo.png)
 
 ## :rocket: Dependências
 
